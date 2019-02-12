@@ -12,7 +12,7 @@ Data for the four years before Parkland are in `historicalData.csv`.
 
 The Python script to automate records requests is `requestSender.py`. The script uses Google's API to run down a list of incidents in a Google sheet and write templated records requests to more than 650 police agencies. McClatchy compiled this database for the purposes of fact-checking information from Gun Violence Archive and adding new information where able.
 
-More can be read on the methodology [here](https://www.miamiherald.com/news/nation-world/national/article224957145.html). Stories can be read here. Obits on almost all of the children can be found here.
+More can be read on the methodology [here](https://www.miamiherald.com/news/nation-world/national/article224957145.html). Stories can be read [here](https://www.miamiherald.com/news/nation-world/national/article224680840.html). Obits on almost all of the children can be found [here](https://www.sinceparkland.org).
 
 ## Questions
 
